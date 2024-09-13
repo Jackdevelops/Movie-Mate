@@ -30,8 +30,8 @@ h1 {
   letter-spacing: 0.9px;
   background: linear-gradient(
     90deg,
-    rgb(24, 236, 113) 0%,
-    rgba(151, 216, 178, 1) 100%
+    rgb(125, 121, 255) 0%,
+    rgb(187, 186, 224) 100%
   );
   background-clip: text;
   -webkit-background-clip: text;
@@ -95,7 +95,7 @@ h1 {
 
 .empty h2 {
   font-size: 1.25rem;
-  color: #2ae97a;
+  color: #7d79ff;
   font-family: var(--font-raleway);
 }
 
@@ -126,7 +126,7 @@ h1 {
   width: 100%;
   opacity: 0;
   top: 0;
-  color: #2ae97a;
+  color: #7d79ff;
 }
 
 .movie:hover {
@@ -166,7 +166,7 @@ h1 {
 .movie div:nth-of-type(3) h3 {
   margin-top: 5px;
   font-family: "Roboto Slab", serif;
-  color: #67ec9f;
+  color: #7d79ff;
 }
 
 .movie:hover div:nth-of-type(2) {
@@ -202,7 +202,7 @@ h1 {
 .movies-section h1,
 .series-section h1 {
   font-size: 2rem; /* Adjust font size as needed */
-  color: #67ec9f; /* Adjust color as needed */
+  color: #7d79ff; /* Adjust color as needed */
   text-align: center; /* Center text horizontally */
   margin-bottom: 1rem; /* Space below the heading */
 }
@@ -269,7 +269,7 @@ h1 {
   padding: 15px;
   margin: 10px 0;
   background-color: #343739;
-  color: #2ae97a;
+  color: #7d79ff;
   font-family: var(--font-raleway);
   font-size: 1.1rem;
   text-transform: uppercase;
@@ -284,7 +284,7 @@ h1 {
 
 /* Button hover effect */
 .sidebar-btn:hover {
-  background-color: #2ae97a;
+  background-color: #7d79ff;
   color: #1f2123;
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 }
@@ -356,7 +356,7 @@ h1 {
   flex: 1;
   height: 100%;
   font-family: var(--font-raleway);
-  color: #2ae97a;
+  color: #7d79ff;
   background: transparent;
   border: none;
   font-size: 0.9rem;
@@ -372,7 +372,7 @@ h1 {
 /* Button hover effect */
 .bottom-bar-btn:hover {
   background-color: #343739;
-  color: #2ae97a;
+  color: #7d79ff;
 }
 
 /* Parallax-style background */
@@ -429,7 +429,7 @@ h1 {
 }
 
 .movie-info strong {
-  color: #2ae97a;
+  color: #7d79ff;
 }
 
 /* Media Query for Smaller Screens */
@@ -524,7 +524,7 @@ h1 {
   font-size: 2rem; /* Adjust size as needed */
   margin: 0; /* Remove default margin */
   font-family: var(--font-raleway); /* Ensure consistent font family */
-  color: #67ec9f; /* Ensure text color matches your design */
+  color: #7d79ff; /* Ensure text color matches your design */
 }
 
 .settings-page {
